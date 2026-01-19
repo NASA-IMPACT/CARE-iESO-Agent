@@ -8,13 +8,14 @@ This repository captures **structured design documentation and reusable artifact
 ---
 
 ## Project Focus: IESO Agent for NASA Worldview
-This work is specifically tailored to an **IESO agent design pattern**, where the agent operates through a consistent engineering loop. The goal is to produce a **reviewable, testable agent design** that supports both new and expert users in performing correct scientific and operational interpretation of what they see in NASA Worldview.
+This work is specifically tailored to an **iESO/Worldview design pattern**, where the agent operates through a consistent engineering loop. The goal is to produce a **reviewable, testable agent design** that supports both new and expert users in performing correct scientific and operational interpretation of what they see in NASA Worldview.
 
 ---
 
 ## Participating SMEs
 
-This project is developed collaboratively with participating subject-matter experts:
+This project will be developed collaboratively with participating subject-matter experts:
+* **Rousseaux, Cecile S. (GSFC-6160)** — [ian.g.brosnan@nasa.gov](mailto:cecile.s.rousseaux@nasa.gov)
 * **Brosnan, Ian G. (ARC-SG)** — [ian.g.brosnan@nasa.gov](mailto:ian.g.brosnan@nasa.gov)
 * **Hain, Christopher R. (MSFC-ST11)** — [christopher.hain@nasa.gov](mailto:christopher.hain@nasa.gov)
 * **Cetinic, Ivona (GSFC-616.0) [MORGAN STATE UNIV.]** — [ivona.cetinic@nasa.gov](mailto:ivona.cetinic@nasa.gov)
@@ -39,7 +40,6 @@ CARE emphasizes **repeatability, reviewability, and maintainability** of agent b
 ## Repository Purpose
 
 This repository exists to:
-
 * Organize CARE artifacts specifically for the **NASA Worldview chatbot agent**
 * Capture **IESO phase prompts**, specifications, and outputs in a reviewable format
 * Support collaboration between SMEs, developers, and LLM-based helper agents
