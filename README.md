@@ -15,7 +15,7 @@ This work is specifically tailored to an **iESO/Worldview design pattern**, wher
 ## Participating SMEs
 
 This project will be developed collaboratively with participating subject-matter experts:
-* **Rousseaux, Cecile S. (GSFC-6160)** — [ian.g.brosnan@nasa.gov](mailto:cecile.s.rousseaux@nasa.gov)
+* **Rousseaux, Cecile S. (GSFC-6160)** — [cecile.s.rousseaux@nasa.gov ](mailto:cecile.s.rousseaux@nasa.gov)
 * **Brosnan, Ian G. (ARC-SG)** — [ian.g.brosnan@nasa.gov](mailto:ian.g.brosnan@nasa.gov)
 * **Hain, Christopher R. (MSFC-ST11)** — [christopher.hain@nasa.gov](mailto:christopher.hain@nasa.gov)
 * **Cetinic, Ivona (GSFC-616.0) [MORGAN STATE UNIV.]** — [ivona.cetinic@nasa.gov](mailto:ivona.cetinic@nasa.gov)
@@ -49,27 +49,27 @@ The focus is primarily on **agent design documentation and evaluation artifacts*
 
 ---
 
-## CARE Phases (IESO-Aligned)
+## CARE Phases 
 
 The repository is organized into five CARE phases, mapped to IESO design needs:
 
-### **Phase 1: Scope and Decompose (Interpret)**
+### **Phase 1: Scope and Decompose**
 
 Define user goals, scientific intent classes, constraints, and operational boundaries in Worldview.
 
-### **Phase 2: Key Information Elicitation (Explore)**
+### **Phase 2: Key Information Elicitation**
 
 Document datasets, layer metadata, authoritative references, known pitfalls, and required context.
 
-### **Phase 3: Reasoning Policy and Guardrails (Interpret + Synthesize)**
+### **Phase 3: Reasoning Policy and Guardrails**
 
 Define verification rules, uncertainty handling, citation expectations, and safety/failure behaviors.
 
-### **Phase 4: Prompt Architecture and Tool Orchestration (Explore + Operationalize)**
+### **Phase 4: Prompt Architecture and Tool Orchestration**
 
 Translate the design into structured prompts, tool routing, UI action steps, and response templates.
 
-### **Phase 5: Benchmarking (Synthesize + Operationalize)**
+### **Phase 5: Benchmarking**
 
 Build scenario-based test suites (scientific + operational), rubrics, and regression evaluation outputs.
 
