@@ -15,7 +15,7 @@ This work is specifically tailored to an **iESO/Worldview design pattern**, wher
 ## Participating SMEs
 
 This project will be developed collaboratively with participating subject-matter experts:
-* **Rousseaux, Cecile S. (GSFC-6160)** — [ian.g.brosnan@nasa.gov](mailto:cecile.s.rousseaux@nasa.gov)
+* **Rousseaux, Cecile S. (GSFC-6160)** — [cecile.s.rousseaux@nasa.gov ](mailto:cecile.s.rousseaux@nasa.gov)
 * **Brosnan, Ian G. (ARC-SG)** — [ian.g.brosnan@nasa.gov](mailto:ian.g.brosnan@nasa.gov)
 * **Hain, Christopher R. (MSFC-ST11)** — [christopher.hain@nasa.gov](mailto:christopher.hain@nasa.gov)
 * **Cetinic, Ivona (GSFC-616.0) [MORGAN STATE UNIV.]** — [ivona.cetinic@nasa.gov](mailto:ivona.cetinic@nasa.gov)
