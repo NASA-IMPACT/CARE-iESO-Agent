@@ -49,27 +49,27 @@ The focus is primarily on **agent design documentation and evaluation artifacts*
 
 ---
 
-## CARE Phases (IESO-Aligned)
+## CARE Phases 
 
 The repository is organized into five CARE phases, mapped to IESO design needs:
 
-### **Phase 1: Scope and Decompose (Interpret)**
+### **Phase 1: Scope and Decompose**
 
 Define user goals, scientific intent classes, constraints, and operational boundaries in Worldview.
 
-### **Phase 2: Key Information Elicitation (Explore)**
+### **Phase 2: Key Information Elicitation**
 
 Document datasets, layer metadata, authoritative references, known pitfalls, and required context.
 
-### **Phase 3: Reasoning Policy and Guardrails (Interpret + Synthesize)**
+### **Phase 3: Reasoning Policy and Guardrails**
 
 Define verification rules, uncertainty handling, citation expectations, and safety/failure behaviors.
 
-### **Phase 4: Prompt Architecture and Tool Orchestration (Explore + Operationalize)**
+### **Phase 4: Prompt Architecture and Tool Orchestration**
 
 Translate the design into structured prompts, tool routing, UI action steps, and response templates.
 
-### **Phase 5: Benchmarking (Synthesize + Operationalize)**
+### **Phase 5: Benchmarking**
 
 Build scenario-based test suites (scientific + operational), rubrics, and regression evaluation outputs.
 
